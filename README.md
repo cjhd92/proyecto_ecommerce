@@ -1,15 +1,28 @@
-Welcome to your new dbt project!
+# 🚀 Proyecto de Ingeniería de Datos – Pipeline Local con dbt, Airflow y Streamlit
 
-### Using the starter project
+Este proyecto simula un pipeline de datos profesional usando herramientas modernas, ideal para un entorno local. Procesa datos de ventas en CSV, los transforma con `dbt`, los orquesta con `Airflow`, y los visualiza con `Streamlit`.
 
-Try running the following commands:
-- dbt run
-- dbt test
+---
+
+![Dashboard de ejemplo](images/dashboard_ejemplo.png)
+
+---
+
+## 📦 Tecnologías utilizadas
+
+- **Python**
+- **DuckDB** (como motor de base de datos local)
+- **dbt (Data Build Tool)** para modelado y transformacióne
+- **Streamlit** para visualización de KPIs
+- **Pandas, Altair** para análisis y gráficos
+
+---
+
+## 📦 Visualiza el dashboard en Streamlit
+
+- streamlit run app_streamlit.py
+
+## 🧑‍💻 Autor
+Este proyecto fue desarrollado por César Javier Herrera Díaz como parte de su portafolio como Data Engineer.
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
