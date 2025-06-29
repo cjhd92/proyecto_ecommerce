@@ -1,0 +1,73 @@
+version: 1
+
+
+models:
+    - name: dim_clientes
+      description: "Dimensión de clientes"
+      columns:
+        - name: cliente_id
+          tests:
+            - not_null
+            - unique
+        - name: nombre
+          tests:
+            - not_null
+        - name: pais
+          tests:
+            - not_null
+    - name: dim_productos
+      description: "Dimensión de productos"
+      columns:
+        - name: producto_id
+          tests:
+            - not_null
+            - unique
+        - name: categoria
+          tests:
+            - not_null
+        - name: subcategoria
+          tests:
+            - not_null
+        - name: precio_base
+          tests:
+            - not_null
+    - name: dim_canales
+      description: "Dimensión de canales"
+      columns:
+        - name: canal
+          tests:
+            - not_null
+            - unique
+            - accepted_values:
+                values: ['Web', 'Tienda Física', 'App Móvil']
+        - name: tipo
+          tests:
+            - not_null
+    - name: fct_ventas
+      description: "Tabla de hechos con información de ventas"
+      columns:
+        - name: venta_id
+          tests:
+            - not_null
+            - unique
+        - name: cliente_id
+          tests:
+            - not_null
+        - name: producto_id
+          tests:
+            - not_null
+        - name: cantidad
+          tests:
+            - not_null
+        - name: precio_unitario
+          tests:
+            - not_null
+        - name: total_venta
+          tests:
+            - not_null
+        - name: es_devolucion
+          tests:
+            - not_null
+
+
+

@@ -1,0 +1,51 @@
+version: 1
+
+models:
+  - name: stg_clientes
+    description: "Clientes del sistema"
+    columns:
+      - name: cliente_id
+        description: "Identificador único del cliente"
+        tests:
+          - not_null
+          - unique
+      - name: nombre
+        tests:
+          - not_null
+      - name: pais
+        tests:
+          - not_null
+  - name: stg_canales
+    description: "Canales de venta"
+    columns:
+      - name: canal
+        test:
+          - not_null
+          - accepted_values:
+              values: ['Web', 'Tienda Física', 'App Móvil']
+      - name: tipo
+        tests:
+          - not_null
+  - name: stg_ventas
+    description: "Ventas realizadas"
+    columns:
+      - name: venta_id
+        tests:
+          - not_null
+          - unique
+      - name: cliente_id
+        tests:
+          - not_null
+      - name: producto_id
+        tests:
+          - not_null
+      - name: canal
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Web', 'Tienda Física', 'App Móvil']
+
+      
+          
+
+

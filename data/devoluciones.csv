@@ -1,0 +1,501 @@
+devolucion_id,venta_id,fecha,motivo
+1,2456,2025-03-27,Pedido duplicado
+2,4513,2025-01-15,Pedido duplicado
+3,2211,2025-05-23,Producto defectuoso
+4,1002,2024-07-28,Pedido duplicado
+5,3867,2024-12-12,Producto defectuoso
+6,819,2025-05-27,Producto defectuoso
+7,501,2025-03-04,Producto defectuoso
+8,3389,2024-11-16,Pedido duplicado
+9,934,2024-08-31,Pedido duplicado
+10,2497,2024-10-03,Producto defectuoso
+11,3106,2024-11-03,No era lo esperado
+12,4703,2024-11-05,Producto defectuoso
+13,4562,2025-04-25,No era lo esperado
+14,1677,2025-04-29,Pedido duplicado
+15,2679,2025-06-26,No era lo esperado
+16,4634,2024-10-10,Producto defectuoso
+17,1141,2025-01-10,Pedido duplicado
+18,2324,2025-01-20,No era lo esperado
+19,4235,2025-04-17,Producto defectuoso
+20,1864,2025-02-18,Pedido duplicado
+21,3356,2025-03-06,No era lo esperado
+22,1580,2024-11-23,Producto defectuoso
+23,4371,2024-10-02,Producto defectuoso
+24,3288,2025-02-22,No era lo esperado
+25,2544,2024-09-10,Producto defectuoso
+26,1799,2024-08-02,No era lo esperado
+27,3365,2024-11-18,Pedido duplicado
+28,2739,2024-09-20,Pedido duplicado
+29,2530,2024-12-15,No era lo esperado
+30,2093,2024-12-17,Pedido duplicado
+31,1116,2025-02-04,Producto defectuoso
+32,4199,2025-05-08,Pedido duplicado
+33,4561,2024-08-07,No era lo esperado
+34,743,2025-05-22,No era lo esperado
+35,2991,2024-11-26,No era lo esperado
+36,1587,2025-05-16,Pedido duplicado
+37,3717,2024-07-02,Producto defectuoso
+38,4951,2025-01-24,Pedido duplicado
+39,4049,2025-02-06,Producto defectuoso
+40,521,2025-05-28,Producto defectuoso
+41,3562,2024-08-21,No era lo esperado
+42,28,2025-04-05,No era lo esperado
+43,1719,2025-02-27,Pedido duplicado
+44,1445,2025-05-01,Pedido duplicado
+45,4521,2024-12-01,Producto defectuoso
+46,2669,2024-07-15,Pedido duplicado
+47,1843,2024-06-29,No era lo esperado
+48,565,2024-09-20,Pedido duplicado
+49,2216,2024-10-22,Pedido duplicado
+50,4869,2025-03-22,No era lo esperado
+51,1391,2025-04-23,No era lo esperado
+52,3017,2025-06-08,Producto defectuoso
+53,406,2025-05-28,No era lo esperado
+54,3234,2025-05-06,Producto defectuoso
+55,1977,2024-10-15,Pedido duplicado
+56,3373,2024-12-09,Producto defectuoso
+57,1361,2025-03-20,No era lo esperado
+58,2493,2024-08-01,No era lo esperado
+59,1831,2024-11-08,Pedido duplicado
+60,400,2025-06-20,Producto defectuoso
+61,4176,2024-11-03,Pedido duplicado
+62,2404,2025-02-09,No era lo esperado
+63,1645,2024-07-24,No era lo esperado
+64,2916,2024-12-06,Pedido duplicado
+65,4044,2025-05-26,Producto defectuoso
+66,23,2025-02-27,Pedido duplicado
+67,4257,2025-04-20,Producto defectuoso
+68,1748,2025-04-27,Pedido duplicado
+69,3536,2024-07-24,Pedido duplicado
+70,1744,2024-09-20,Pedido duplicado
+71,4522,2024-10-07,Pedido duplicado
+72,1318,2025-04-28,Producto defectuoso
+73,3180,2025-05-26,Producto defectuoso
+74,2633,2024-10-23,Pedido duplicado
+75,2114,2025-04-06,Producto defectuoso
+76,1105,2025-02-26,Pedido duplicado
+77,2781,2024-07-11,Pedido duplicado
+78,3291,2025-04-24,Producto defectuoso
+79,1965,2025-02-11,Pedido duplicado
+80,1508,2024-09-27,Pedido duplicado
+81,1478,2025-01-13,Pedido duplicado
+82,4733,2024-10-30,No era lo esperado
+83,1505,2025-02-04,Producto defectuoso
+84,2670,2025-02-02,No era lo esperado
+85,1416,2024-09-29,Producto defectuoso
+86,2807,2025-05-12,Pedido duplicado
+87,488,2025-03-08,Pedido duplicado
+88,2096,2024-12-28,Producto defectuoso
+89,3809,2025-01-24,Producto defectuoso
+90,1458,2025-04-20,Producto defectuoso
+91,1046,2025-05-01,Producto defectuoso
+92,163,2025-06-22,No era lo esperado
+93,181,2025-04-15,Producto defectuoso
+94,4722,2024-08-01,No era lo esperado
+95,1123,2025-06-25,Pedido duplicado
+96,4821,2024-07-11,No era lo esperado
+97,1892,2025-01-04,No era lo esperado
+98,4026,2025-01-09,No era lo esperado
+99,4423,2025-03-02,No era lo esperado
+100,2563,2024-07-01,Producto defectuoso
+101,1202,2025-05-14,Pedido duplicado
+102,2278,2025-02-13,No era lo esperado
+103,1377,2025-03-27,No era lo esperado
+104,2482,2025-01-04,Pedido duplicado
+105,1075,2024-12-14,Producto defectuoso
+106,2200,2025-06-16,Producto defectuoso
+107,705,2024-11-12,Pedido duplicado
+108,1573,2025-01-28,No era lo esperado
+109,4960,2024-12-07,No era lo esperado
+110,4417,2024-07-01,No era lo esperado
+111,1954,2024-10-09,Producto defectuoso
+112,3941,2024-09-09,Producto defectuoso
+113,1743,2024-07-18,Producto defectuoso
+114,4711,2024-10-15,Producto defectuoso
+115,4841,2024-09-17,Producto defectuoso
+116,2753,2025-02-12,Pedido duplicado
+117,3804,2024-10-29,No era lo esperado
+118,4283,2024-10-26,Pedido duplicado
+119,2987,2024-08-22,Pedido duplicado
+120,1857,2025-03-20,Pedido duplicado
+121,4783,2024-11-06,Producto defectuoso
+122,4473,2025-05-08,Pedido duplicado
+123,1360,2025-06-25,Producto defectuoso
+124,1109,2024-10-22,Pedido duplicado
+125,3497,2025-06-11,Pedido duplicado
+126,13,2024-08-05,No era lo esperado
+127,633,2024-10-07,Producto defectuoso
+128,698,2025-02-06,Pedido duplicado
+129,2623,2024-11-01,Pedido duplicado
+130,392,2024-08-02,No era lo esperado
+131,4233,2024-07-06,No era lo esperado
+132,4931,2024-11-24,Pedido duplicado
+133,519,2024-09-26,Pedido duplicado
+134,3834,2024-08-14,Producto defectuoso
+135,4103,2025-01-04,Pedido duplicado
+136,4948,2024-12-07,Producto defectuoso
+137,3680,2024-09-16,Pedido duplicado
+138,449,2025-06-16,Pedido duplicado
+139,2974,2024-12-23,Pedido duplicado
+140,2480,2025-02-01,No era lo esperado
+141,3243,2025-02-18,Producto defectuoso
+142,1518,2025-01-12,Producto defectuoso
+143,4310,2024-10-31,Producto defectuoso
+144,3810,2025-05-11,Producto defectuoso
+145,3084,2024-10-15,Pedido duplicado
+146,834,2025-02-13,Pedido duplicado
+147,4497,2024-12-21,Pedido duplicado
+148,4603,2024-10-26,No era lo esperado
+149,1441,2024-10-09,Pedido duplicado
+150,2001,2024-07-01,Producto defectuoso
+151,2925,2025-05-16,No era lo esperado
+152,3310,2024-09-15,No era lo esperado
+153,3661,2024-10-26,Pedido duplicado
+154,2139,2024-06-27,No era lo esperado
+155,4190,2024-07-17,Pedido duplicado
+156,4456,2024-07-25,Pedido duplicado
+157,284,2024-09-22,No era lo esperado
+158,2222,2025-02-21,Pedido duplicado
+159,4666,2025-02-07,Pedido duplicado
+160,1340,2025-06-21,Producto defectuoso
+161,2219,2025-04-17,Pedido duplicado
+162,3543,2025-03-09,Pedido duplicado
+163,2681,2024-10-03,Pedido duplicado
+164,4605,2024-12-10,Pedido duplicado
+165,196,2024-12-31,Producto defectuoso
+166,2969,2025-04-07,Producto defectuoso
+167,2896,2025-06-14,No era lo esperado
+168,1081,2024-08-16,No era lo esperado
+169,881,2024-07-15,Producto defectuoso
+170,3401,2025-06-27,Pedido duplicado
+171,1980,2025-03-31,No era lo esperado
+172,3740,2025-03-21,Pedido duplicado
+173,968,2024-10-10,Pedido duplicado
+174,4879,2025-06-06,Producto defectuoso
+175,2072,2025-06-23,No era lo esperado
+176,269,2025-04-05,Producto defectuoso
+177,3262,2025-05-09,Pedido duplicado
+178,2030,2025-06-10,Pedido duplicado
+179,1010,2024-12-25,Pedido duplicado
+180,1136,2024-11-30,Pedido duplicado
+181,4586,2025-03-30,No era lo esperado
+182,4221,2025-01-16,Producto defectuoso
+183,370,2024-08-16,Pedido duplicado
+184,1335,2025-06-16,No era lo esperado
+185,2822,2025-03-07,Pedido duplicado
+186,2434,2024-08-27,Pedido duplicado
+187,4813,2025-03-26,Pedido duplicado
+188,2205,2024-09-28,Producto defectuoso
+189,3294,2025-04-26,Pedido duplicado
+190,1243,2025-02-12,Producto defectuoso
+191,416,2024-09-07,No era lo esperado
+192,4831,2024-12-24,Producto defectuoso
+193,3177,2025-05-12,No era lo esperado
+194,1249,2024-08-02,Producto defectuoso
+195,2799,2025-04-19,Producto defectuoso
+196,2396,2025-01-28,Pedido duplicado
+197,2940,2024-11-02,No era lo esperado
+198,3621,2025-04-08,No era lo esperado
+199,4308,2024-08-19,Producto defectuoso
+200,2815,2025-06-07,Producto defectuoso
+201,2214,2024-08-01,No era lo esperado
+202,1395,2024-12-22,Producto defectuoso
+203,4754,2025-06-13,No era lo esperado
+204,2646,2024-09-04,Pedido duplicado
+205,1651,2024-10-23,No era lo esperado
+206,613,2024-10-07,No era lo esperado
+207,472,2025-03-17,No era lo esperado
+208,3783,2024-12-06,No era lo esperado
+209,1504,2024-11-05,No era lo esperado
+210,3587,2025-05-18,No era lo esperado
+211,879,2025-03-30,Pedido duplicado
+212,1369,2024-09-19,Pedido duplicado
+213,487,2025-02-04,Producto defectuoso
+214,3002,2024-09-01,No era lo esperado
+215,558,2024-11-18,Producto defectuoso
+216,130,2025-01-04,Producto defectuoso
+217,2079,2025-01-16,Pedido duplicado
+218,4022,2024-12-25,Pedido duplicado
+219,1879,2025-05-01,Pedido duplicado
+220,4786,2024-10-13,No era lo esperado
+221,4864,2025-05-28,Producto defectuoso
+222,2746,2025-05-26,Pedido duplicado
+223,4329,2025-03-17,Producto defectuoso
+224,2705,2024-09-27,No era lo esperado
+225,3900,2024-07-22,No era lo esperado
+226,136,2025-03-18,No era lo esperado
+227,4354,2024-10-23,Pedido duplicado
+228,729,2025-02-25,Pedido duplicado
+229,2494,2025-02-04,Producto defectuoso
+230,432,2024-12-21,Pedido duplicado
+231,2773,2025-03-22,No era lo esperado
+232,1158,2025-05-02,Pedido duplicado
+233,2097,2025-04-06,Producto defectuoso
+234,3769,2025-06-14,Producto defectuoso
+235,1599,2024-07-17,Producto defectuoso
+236,4827,2024-07-19,No era lo esperado
+237,2770,2025-05-29,Producto defectuoso
+238,4074,2024-07-14,Pedido duplicado
+239,3724,2025-01-07,No era lo esperado
+240,3376,2024-07-26,Producto defectuoso
+241,4461,2024-10-09,Pedido duplicado
+242,927,2025-01-12,Producto defectuoso
+243,3816,2024-07-31,Pedido duplicado
+244,1359,2025-02-01,Pedido duplicado
+245,4817,2024-11-13,Pedido duplicado
+246,1959,2025-05-20,No era lo esperado
+247,3487,2024-09-01,No era lo esperado
+248,2550,2024-12-29,Pedido duplicado
+249,2577,2024-09-11,Producto defectuoso
+250,3198,2024-07-21,Pedido duplicado
+251,99,2024-09-19,Producto defectuoso
+252,4500,2025-05-05,Pedido duplicado
+253,3274,2024-12-03,Pedido duplicado
+254,1387,2025-05-23,Producto defectuoso
+255,1854,2025-03-01,Producto defectuoso
+256,2233,2025-04-30,No era lo esperado
+257,2071,2025-05-01,Pedido duplicado
+258,4063,2024-09-07,No era lo esperado
+259,4858,2025-06-02,No era lo esperado
+260,3646,2025-04-20,Producto defectuoso
+261,3159,2025-05-09,No era lo esperado
+262,412,2024-07-11,Pedido duplicado
+263,2350,2024-08-29,No era lo esperado
+264,1712,2024-10-11,Pedido duplicado
+265,2947,2024-12-28,No era lo esperado
+266,1792,2024-12-08,Producto defectuoso
+267,193,2024-09-26,Pedido duplicado
+268,1813,2024-08-19,No era lo esperado
+269,324,2024-07-02,Pedido duplicado
+270,4984,2025-04-11,Producto defectuoso
+271,4427,2025-04-17,Pedido duplicado
+272,1914,2025-03-08,Pedido duplicado
+273,1536,2024-07-23,Producto defectuoso
+274,1691,2024-08-23,Pedido duplicado
+275,1759,2024-11-27,Pedido duplicado
+276,4883,2025-06-13,Producto defectuoso
+277,964,2025-06-23,No era lo esperado
+278,3932,2024-11-10,Producto defectuoso
+279,26,2025-05-23,No era lo esperado
+280,4256,2025-03-13,Producto defectuoso
+281,2610,2024-07-28,Producto defectuoso
+282,2043,2025-02-23,Pedido duplicado
+283,4661,2025-04-09,Producto defectuoso
+284,4069,2024-12-09,No era lo esperado
+285,1821,2025-05-12,Pedido duplicado
+286,2853,2025-03-06,Producto defectuoso
+287,3785,2025-05-30,No era lo esperado
+288,2098,2024-07-19,Producto defectuoso
+289,4372,2024-09-08,Pedido duplicado
+290,747,2024-07-30,Producto defectuoso
+291,2301,2024-09-05,Producto defectuoso
+292,1283,2024-11-01,Pedido duplicado
+293,4557,2025-03-27,No era lo esperado
+294,321,2024-10-28,Pedido duplicado
+295,4056,2024-11-24,Pedido duplicado
+296,2379,2025-06-19,Producto defectuoso
+297,3408,2025-05-07,Pedido duplicado
+298,15,2024-11-08,Producto defectuoso
+299,452,2024-10-15,Pedido duplicado
+300,2787,2024-09-17,Producto defectuoso
+301,3853,2024-11-23,Pedido duplicado
+302,3728,2024-11-23,Producto defectuoso
+303,172,2025-04-26,No era lo esperado
+304,4302,2024-08-04,No era lo esperado
+305,2763,2025-06-05,No era lo esperado
+306,4066,2024-08-04,No era lo esperado
+307,4543,2025-06-18,Pedido duplicado
+308,1991,2024-12-05,Pedido duplicado
+309,1837,2024-10-27,Producto defectuoso
+310,3731,2025-06-23,No era lo esperado
+311,4434,2024-07-05,Pedido duplicado
+312,1824,2024-08-01,Pedido duplicado
+313,4569,2025-01-13,Pedido duplicado
+314,4886,2024-12-24,Producto defectuoso
+315,2869,2025-02-04,Pedido duplicado
+316,398,2024-09-18,No era lo esperado
+317,2181,2025-03-08,Pedido duplicado
+318,37,2025-05-05,Pedido duplicado
+319,3150,2024-09-20,No era lo esperado
+320,3224,2024-09-01,Pedido duplicado
+321,1057,2024-11-21,Producto defectuoso
+322,4342,2024-11-03,Pedido duplicado
+323,3118,2025-02-01,Producto defectuoso
+324,876,2024-10-08,Producto defectuoso
+325,3446,2024-11-29,No era lo esperado
+326,4980,2025-05-22,No era lo esperado
+327,202,2024-07-05,Producto defectuoso
+328,1442,2024-08-16,No era lo esperado
+329,154,2024-10-03,Producto defectuoso
+330,4764,2025-01-10,No era lo esperado
+331,2297,2024-11-10,No era lo esperado
+332,2064,2025-03-30,Producto defectuoso
+333,2087,2025-05-02,Producto defectuoso
+334,4194,2024-09-25,Producto defectuoso
+335,2642,2025-04-14,Producto defectuoso
+336,2144,2024-08-20,No era lo esperado
+337,926,2025-03-08,Producto defectuoso
+338,4309,2024-07-26,No era lo esperado
+339,896,2025-05-20,Producto defectuoso
+340,2594,2025-05-31,Pedido duplicado
+341,4573,2024-11-16,Producto defectuoso
+342,3602,2024-09-20,No era lo esperado
+343,4124,2024-12-12,Producto defectuoso
+344,778,2025-04-02,Pedido duplicado
+345,4978,2024-11-10,Producto defectuoso
+346,182,2025-03-10,Pedido duplicado
+347,3080,2025-03-02,Producto defectuoso
+348,3361,2025-02-09,No era lo esperado
+349,329,2025-03-25,Producto defectuoso
+350,3410,2024-10-21,No era lo esperado
+351,1108,2024-11-06,Producto defectuoso
+352,3842,2024-08-08,No era lo esperado
+353,89,2024-11-29,Producto defectuoso
+354,3732,2024-10-30,Producto defectuoso
+355,2632,2024-09-02,Pedido duplicado
+356,2209,2025-03-06,No era lo esperado
+357,3455,2024-08-26,No era lo esperado
+358,361,2025-03-12,Pedido duplicado
+359,2905,2025-05-27,No era lo esperado
+360,500,2025-03-03,No era lo esperado
+361,4597,2024-10-19,Producto defectuoso
+362,4527,2025-01-05,Producto defectuoso
+363,1613,2024-07-20,Producto defectuoso
+364,2555,2024-09-10,No era lo esperado
+365,2232,2024-11-03,Pedido duplicado
+366,3578,2024-08-05,Producto defectuoso
+367,4460,2024-08-28,Pedido duplicado
+368,2826,2024-12-29,Producto defectuoso
+369,2412,2025-02-17,No era lo esperado
+370,1103,2024-07-10,Producto defectuoso
+371,3930,2025-03-06,No era lo esperado
+372,736,2025-01-18,Producto defectuoso
+373,4672,2025-03-18,No era lo esperado
+374,371,2024-11-14,No era lo esperado
+375,3471,2025-05-02,Producto defectuoso
+376,4242,2025-04-10,No era lo esperado
+377,2375,2024-11-03,Pedido duplicado
+378,288,2024-09-16,Pedido duplicado
+379,3685,2025-02-10,Pedido duplicado
+380,4684,2025-04-01,No era lo esperado
+381,2427,2024-10-30,No era lo esperado
+382,1248,2024-11-10,Pedido duplicado
+383,4278,2025-04-21,No era lo esperado
+384,3637,2024-09-11,Producto defectuoso
+385,12,2025-02-12,Producto defectuoso
+386,2263,2024-12-29,Pedido duplicado
+387,930,2024-07-06,Pedido duplicado
+388,2294,2024-08-11,Producto defectuoso
+389,73,2025-02-21,Producto defectuoso
+390,278,2024-07-05,Producto defectuoso
+391,4394,2025-04-15,Producto defectuoso
+392,855,2024-11-24,Pedido duplicado
+393,1494,2024-09-19,Pedido duplicado
+394,4995,2024-10-09,Producto defectuoso
+395,2155,2024-12-18,No era lo esperado
+396,1601,2025-02-16,Producto defectuoso
+397,773,2025-02-10,No era lo esperado
+398,396,2024-09-01,Producto defectuoso
+399,3540,2024-10-01,Producto defectuoso
+400,682,2024-11-26,Pedido duplicado
+401,1565,2025-03-22,No era lo esperado
+402,2678,2024-12-12,Producto defectuoso
+403,2624,2025-02-03,No era lo esperado
+404,3613,2024-07-03,Pedido duplicado
+405,116,2025-04-29,Pedido duplicado
+406,4971,2024-07-24,Pedido duplicado
+407,2565,2025-03-22,Producto defectuoso
+408,1926,2025-06-19,Producto defectuoso
+409,3070,2025-05-06,Producto defectuoso
+410,3032,2024-12-20,Pedido duplicado
+411,2895,2024-11-19,Pedido duplicado
+412,4792,2025-04-06,Pedido duplicado
+413,1540,2024-10-30,Producto defectuoso
+414,1348,2024-08-31,Producto defectuoso
+415,648,2024-12-09,Pedido duplicado
+416,3687,2025-04-27,No era lo esperado
+417,225,2024-09-26,Pedido duplicado
+418,912,2024-09-03,No era lo esperado
+419,244,2024-11-10,Producto defectuoso
+420,2652,2024-07-02,Pedido duplicado
+421,3456,2025-05-21,Producto defectuoso
+422,4374,2024-09-29,Producto defectuoso
+423,4142,2025-01-02,No era lo esperado
+424,403,2025-05-01,Pedido duplicado
+425,1609,2025-03-18,Pedido duplicado
+426,3807,2025-06-27,No era lo esperado
+427,326,2024-09-17,Producto defectuoso
+428,2024,2024-11-27,No era lo esperado
+429,343,2025-04-25,Pedido duplicado
+430,3232,2025-02-14,No era lo esperado
+431,841,2024-10-31,No era lo esperado
+432,3709,2024-08-19,No era lo esperado
+433,1848,2024-12-04,Pedido duplicado
+434,3965,2024-10-23,Pedido duplicado
+435,2606,2025-02-12,Pedido duplicado
+436,4940,2025-01-23,Pedido duplicado
+437,1112,2024-10-26,Producto defectuoso
+438,483,2024-10-10,No era lo esperado
+439,1280,2025-04-29,No era lo esperado
+440,4706,2024-10-16,No era lo esperado
+441,455,2024-09-27,Pedido duplicado
+442,4952,2024-08-17,Producto defectuoso
+443,2034,2024-10-26,Producto defectuoso
+444,1452,2024-12-01,Producto defectuoso
+445,3315,2025-06-02,Producto defectuoso
+446,3133,2025-06-17,Pedido duplicado
+447,4086,2025-01-20,Producto defectuoso
+448,1424,2024-08-01,Pedido duplicado
+449,3393,2024-08-08,No era lo esperado
+450,146,2025-02-15,No era lo esperado
+451,1324,2025-01-02,Pedido duplicado
+452,2092,2025-01-15,No era lo esperado
+453,211,2024-12-26,No era lo esperado
+454,4873,2025-02-01,Producto defectuoso
+455,890,2024-10-01,Pedido duplicado
+456,3855,2024-10-10,No era lo esperado
+457,2304,2025-05-18,Pedido duplicado
+458,409,2024-09-26,No era lo esperado
+459,1390,2025-06-03,Producto defectuoso
+460,4290,2025-06-10,Pedido duplicado
+461,2409,2025-05-09,No era lo esperado
+462,1285,2024-10-01,No era lo esperado
+463,825,2024-09-18,No era lo esperado
+464,4362,2024-10-26,No era lo esperado
+465,3203,2024-11-28,Producto defectuoso
+466,2712,2025-01-15,Producto defectuoso
+467,2469,2025-03-10,Pedido duplicado
+468,4091,2024-09-25,Pedido duplicado
+469,4321,2024-11-04,Pedido duplicado
+470,446,2024-10-13,No era lo esperado
+471,2840,2025-02-16,Pedido duplicado
+472,464,2025-04-11,No era lo esperado
+473,2308,2024-09-26,Pedido duplicado
+474,4101,2024-11-29,Pedido duplicado
+475,404,2024-07-15,Producto defectuoso
+476,2722,2024-07-08,Pedido duplicado
+477,78,2025-06-16,No era lo esperado
+478,724,2025-02-11,Pedido duplicado
+479,1195,2025-02-11,Pedido duplicado
+480,2485,2025-06-27,Producto defectuoso
+481,3551,2024-08-23,No era lo esperado
+482,812,2024-07-22,Pedido duplicado
+483,1447,2025-05-14,Producto defectuoso
+484,4820,2024-12-14,Pedido duplicado
+485,578,2024-08-28,Pedido duplicado
+486,4169,2025-05-01,Pedido duplicado
+487,1378,2024-12-12,Producto defectuoso
+488,667,2025-06-06,No era lo esperado
+489,2942,2024-09-24,Pedido duplicado
+490,854,2025-03-09,Producto defectuoso
+491,2234,2024-12-23,No era lo esperado
+492,4454,2025-02-12,No era lo esperado
+493,1277,2024-12-11,Producto defectuoso
+494,2221,2024-10-16,Pedido duplicado
+495,3906,2025-01-04,Pedido duplicado
+496,935,2025-02-21,No era lo esperado
+497,1616,2024-10-04,No era lo esperado
+498,4748,2024-09-18,No era lo esperado
+499,2527,2024-12-31,Producto defectuoso
+500,2126,2025-02-28,Producto defectuoso

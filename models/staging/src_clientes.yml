@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: datos
+    tables:
+      - name: clientes
+        meta:
+          external_location: "data/clientes.csv"
+          file_format: "csv"
+      - name: productos
+        meta:
+          external_location: "data/productos.csv"
+          file_format: "csv"
+      - name: canales
+        meta:
+          external_location: "data/canales.csv"
+          file_format: "csv"
+      - name: ventas
+        meta:
+          external_location: "data/ventas.csv"
+          file_format: "csv"
+      - name: devoluciones
+        meta:
+          external_location: "data/devoluciones.csv"
+          file_format: "csv"
