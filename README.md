@@ -1,4 +1,4 @@
-# 🚀 Proyecto de Ingeniería de Datos – Pipeline Local con dbt, Airflow y Streamlit
+# 🚀 Proyecto de Ingeniería de Datos – Pipeline Local con dbt y Streamlit
 
 Este proyecto simula un pipeline de datos profesional usando herramientas modernas, ideal para un entorno local. Procesa datos de ventas en CSV, los transforma con `dbt`, y los visualiza con `Streamlit`.
 
